@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-6f7da": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-6f7da"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-6f7da"
+  }
+}
